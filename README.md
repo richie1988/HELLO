@@ -79,15 +79,13 @@ HTML AND CSS
   </ul>
 </details>
 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[you will be able to see a developer info]**
-- **[you will see built in projects]**
-- **[social media handle page]**
+- **you will be able to see a developer info**
+- **you will see built in projects**
+- **social media handle page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,6 +101,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+
 git npm install
 
 ### Setup
@@ -118,11 +117,15 @@ npm install git@github.com:richie1988/Hello.git
 ### Usage
 
 To run the project, execute the following command:
+Open the Command Prompt then clone the repo
+https://github.com/richie1988/Hello
+
 
 
 ### Run tests
 
 To run tests, run the following command:
+
 npx stylelint "**/*.{css,scss}"
 
 ### Deployment
@@ -135,11 +138,8 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="Richard Sikaonga"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author**
 
@@ -152,11 +152,10 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ 1] **[style element]**
-- [ 2] **[navigation]**
-- [ 3] **[contact info]**
+- [ 1] **style element**
+- [ 2] **navigation**
+- [ 3] **contact info**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
