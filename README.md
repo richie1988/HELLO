@@ -145,7 +145,6 @@ You can deploy this project using:
 
 - GitHub: [@githubhandle](richie1988)
 - Twitter: [@twitterhandle](Richie88)
-- LinkedIn: [LinkedIn](Richard Sikaonga)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
