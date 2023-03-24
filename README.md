@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
 
@@ -44,7 +43,6 @@ REQUIRED SECTIONS:
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-
 # 📖 [Hello Microverse] <a name="about-project"></a>
 it shows information of the software developer's and there projects
 you easily see there information once visited on the page
@@ -53,6 +51,7 @@ you easily see there information once visited on the page
 
 ## 🛠 Built With <a name="built-with"></a>
 Visual studio(vscode)
+
 
 ### Tech Stack <a name="tech-stack"></a>
 .Clint
@@ -144,7 +143,7 @@ You can deploy this project using:
 👤 **Author**
 
 - GitHub: [@githubhandle](richie1988)
-- Twitter: [@twitterhandle](Richie88)
+- Twitter: [@twitterhandle](RichieRichard)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
