@@ -39,26 +39,17 @@ Visual studio(vscode)
 
 <details>
   <summary>Client</summary>
-  HTML and CSS
   <ul>
-    <li><a href="https://reactjs.org/"></a></li>
+    <li><a href="https://www.html.org/">html</a></li>
   </ul>
 </details>
 
 <details>
-  <summary></summary>
+  <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/"></a></li>
+    <li><a href="https://www.style.css.com/">Styel.css</a></li>
   </ul>
 </details>
-
-<details>
-<summary></summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/"></a></li>
-  </ul>
-</details>
-
 
 
 ### Key Features <a name="key-features"></a>
