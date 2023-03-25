@@ -143,7 +143,6 @@ You can deploy this project using:
 👤 **Author**
 
 - GitHub: [@githubhandle](richie1988)
-- Twitter: [@twitterhandle](RichieRichards)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
