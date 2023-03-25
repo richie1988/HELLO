@@ -43,7 +43,6 @@ REQUIRED SECTIONS:
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-
 # 📖 [Hello Microverse] <a name="about-project"></a>
 it shows information of the software developer's and there projects
 you easily see there information once visited on the page
@@ -52,6 +51,7 @@ you easily see there information once visited on the page
 
 ## 🛠 Built With <a name="built-with"></a>
 Visual studio(vscode)
+
 
 ### Tech Stack <a name="tech-stack"></a>
 .Clint
@@ -144,7 +144,6 @@ You can deploy this project using:
 
 - GitHub: [@githubhandle](richie1988)
 - Twitter: [@twitterhandle](RichieRichards)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
