@@ -114,7 +114,7 @@ You can deploy this project using:
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/richie1988/Hello)
+- GitHub: [@githubhandle](richie1988)
 - Twitter: [@twitterhandle](RichieRichards)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
