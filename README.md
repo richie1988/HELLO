@@ -1,23 +1,5 @@
 <a name="readme-top"></a>
-
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b> Hello Microverse First Week Projects</b></h3>
 
 </div>
 
@@ -54,27 +36,26 @@ Visual studio(vscode)
 
 
 ### Tech Stack <a name="tech-stack"></a>
-.Clint
-HTML AND CSS
 
 <details>
   <summary>Client</summary>
+  HTML and CSS
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/"></a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary></summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/"></a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary></summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.postgresql.org/"></a></li>
   </ul>
 </details>
 
@@ -142,7 +123,7 @@ You can deploy this project using:
 
 👤 **Author**
 
-- GitHub: [@githubhandle](richie1988)
+- GitHub: [@githubhandle](https://github.com/richie1988/Hello)
 - Twitter: [@twitterhandle](RichieRichards)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
