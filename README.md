@@ -114,8 +114,8 @@ You can deploy this project using:
 
 👤 **Author**
 
-- GitHub: [@githubhandle](richie1988)
-- Twitter: [@twitterhandle](RichieRichards)
+- GitHub: [@githubhandle](https://github.com/richie1988)
+- Twitter: [@twitterhandle](https://twitter.com/RICHARDSIK51272)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -133,7 +133,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](github/issues).
+Feel free to check the [issues page](https://github.com/features/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
